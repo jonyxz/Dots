@@ -1,12 +1,14 @@
-# --// Hyprland dotfiles //--
+# // Backup Hyprland dotfiles //
 
 ```shell
-      _  _       .                                             _  _          
-     / |/ |     / \         _       _  _                      / |/ |   
-    / // /     /^  \      _| |_    | || |_  _ _ __ _ __      / // /   
-   / // /     /  _  \    |_   _|   | __ | || | '_ \ '_/     / // /  
-  / // /     /  | | ~\     |_|     |_||_|\_, | .__/_|      / // /    
- |_/|_/     /.-'   '-.\                  |__/|_|          |_/|_/                 
+
+      _  _       .                   _   _                  _                 _     ____        _              _  _          
+     / |/ |     / \          _      | | | |_   _ _ __  _ __| | __ _ _ __   __| |   |  _ \  ___ | |_ ___       / |/ |   
+    / // /     /^  \       _| |_    | |_| | | | | '_ \| '__| |/ _` | '_ \ / _` |   | | | |/ _ \| __/ __|     / // /   
+   / // /     /  _  \     |_   _|   |  _  | |_| | |_) | |  | | (_| | | | | (_| |   | |_| | (_) | |_\__ \    / // /  
+  / // /     /  | | ~\      |_|     |_| |_|\__, | .__/|_|  |_|\__,_|_| |_|\__,_|   |____/ \___/ \__|___/   / // /    
+ |_/|_/     /.-'   '-.\                    |___/|_|                                                       |_/|_/
+               
 
 ```
 
@@ -16,18 +18,17 @@
 **minimal Arch install (with grub)**
 - for default full hyprland installation with all configs
 ```shell
-pacman -Sy git
 git clone https://github.com/jonyxz/Dots
 cd ~/Dots/Scripts
 ./install.sh 
 ```
 
-- for full or minimal hyprland installation + your favorite packages (ex. `custom_apps.lst`) 
+- for full hyprland installation + your favorite packages (ex. `custom_apps.lst`) 
 ```shell
 ./install.sh custom_apps.lst # full install custom_hypr.lst + custom_app.lst with configs
 ```
 
-- each [section](#process) can also be independently executed as,
+- each section can also be independently executed as,
 ```shell
 ./install.sh -i # minimal install hyprland without any configs
 ./install.sh -d # minimal install hyprland without any configs, but with (--noconfirm) install
