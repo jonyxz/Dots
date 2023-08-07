@@ -27,7 +27,7 @@ cd ~/Dots/Scripts
 ./install.sh custom_apps.lst # full install custom_hypr.lst + custom_app.lst with configs
 ```
 
-- each [section](#process) can also be independently executed as,
+- each section can also be independently executed as,
 ```shell
 ./install.sh -i # minimal install hyprland without any configs
 ./install.sh -d # minimal install hyprland without any configs, but with (--noconfirm) install
