@@ -1,0 +1,166 @@
+[2023-08-07 20:45:01.946] [info]  [Motrix] Logger init
+[2023-08-07 20:45:01.957] [warn]  [Motrix] Logger init
+[2023-08-07 20:45:02.060] [info]  [Motrix] handleAppLaunchArgv: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 20:45:02.063] [info]  [Motrix] split argv args: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 20:45:02.063] [info]  [Motrix] split argv extra: {}
+[2023-08-07 20:45:02.064] [info]  [Motrix] openedAtLogin: false
+[2023-08-07 20:45:02.187] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/jon/.config/Motrix/logs',
+  'session-path': '/home/jon/.config/Motrix/download.session',
+  'engine-path': '/usr/lib/motrix/engine',
+  'aria2-bin-path': '/usr/lib/motrix/engine/aria2c',
+  'aria2-conf-path': '/usr/lib/motrix/engine/aria2.conf'
+}
+[2023-08-07 20:45:03.077] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://102.223.180.235:6969/announce\n' +
+    '\n' +
+    'udp://185.107.82.74:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://163.172.29.130:80/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://83.146.82.35:6969/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'https://tracker2.ctix.cn:443/announce\n' +
+    '\n' +
+    'https://tracker1.520.jp:443/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'http://bt.endpot.com:80/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n' +
+    'https://tracker.tamersunion.org:443/announce\n' +
+    '\n' +
+    'https://tracker.gbitt.info:443/announce\n' +
+    '\n' +
+    'https://tr.burnabyhighstar.com:443/announce\n' +
+    '\n'
+]
+[2023-08-07 20:53:55.439] [info]  [Motrix] Logger init
+[2023-08-07 20:53:55.445] [warn]  [Motrix] Logger init
+[2023-08-07 20:54:23.694] [info]  [Motrix] Logger init
+[2023-08-07 20:54:23.700] [warn]  [Motrix] Logger init
+[2023-08-07 20:57:19.904] [info]  [Motrix] Logger init
+[2023-08-07 20:57:19.910] [warn]  [Motrix] Logger init
+[2023-08-07 21:01:14.354] [info]  [Motrix] Logger init
+[2023-08-07 21:01:14.359] [warn]  [Motrix] Logger init
+[2023-08-07 21:01:14.461] [info]  [Motrix] handleAppLaunchArgv: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 21:01:14.463] [info]  [Motrix] split argv args: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 21:01:14.464] [info]  [Motrix] split argv extra: {}
+[2023-08-07 21:01:14.465] [info]  [Motrix] openedAtLogin: false
+[2023-08-07 21:01:14.557] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/jon/.config/Motrix/logs',
+  'session-path': '/home/jon/.config/Motrix/download.session',
+  'engine-path': '/usr/lib/motrix/engine',
+  'aria2-bin-path': '/usr/lib/motrix/engine/aria2c',
+  'aria2-conf-path': '/usr/lib/motrix/engine/aria2.conf'
+}
+[2023-08-07 21:01:39.985] [info]  [Motrix] Logger init
+[2023-08-07 21:01:39.991] [warn]  [Motrix] Logger init
+[2023-08-07 23:06:46.207] [info]  [Motrix] Logger init
+[2023-08-07 23:06:46.219] [warn]  [Motrix] Logger init
+[2023-08-07 23:06:46.336] [info]  [Motrix] handleAppLaunchArgv: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 23:06:46.338] [info]  [Motrix] split argv args: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 23:06:46.338] [info]  [Motrix] split argv extra: {}
+[2023-08-07 23:06:46.339] [info]  [Motrix] openedAtLogin: false
+[2023-08-07 23:06:46.592] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/jon/.config/Motrix/logs',
+  'session-path': '/home/jon/.config/Motrix/download.session',
+  'engine-path': '/usr/lib/motrix/engine',
+  'aria2-bin-path': '/usr/lib/motrix/engine/aria2c',
+  'aria2-conf-path': '/usr/lib/motrix/engine/aria2.conf'
+}
+[2023-08-07 23:08:16.588] [info]  [Motrix] Logger init
+[2023-08-07 23:08:16.594] [warn]  [Motrix] Logger init
+[2023-08-07 23:08:16.743] [info]  [Motrix] handleAppLaunchArgv: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 23:08:16.746] [info]  [Motrix] split argv args: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 23:08:16.747] [info]  [Motrix] split argv extra: {}
+[2023-08-07 23:08:16.748] [info]  [Motrix] openedAtLogin: false
+[2023-08-07 23:08:17.120] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/jon/.config/Motrix/logs',
+  'session-path': '/home/jon/.config/Motrix/download.session',
+  'engine-path': '/usr/lib/motrix/engine',
+  'aria2-bin-path': '/usr/lib/motrix/engine/aria2c',
+  'aria2-conf-path': '/usr/lib/motrix/engine/aria2.conf'
+}
+[2023-08-07 23:09:23.846] [info]  [Motrix] Logger init
+[2023-08-07 23:09:23.850] [warn]  [Motrix] Logger init
+[2023-08-07 23:09:23.939] [info]  [Motrix] handleAppLaunchArgv: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 23:09:23.941] [info]  [Motrix] split argv args: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 23:09:23.942] [info]  [Motrix] split argv extra: {}
+[2023-08-07 23:09:23.942] [info]  [Motrix] openedAtLogin: false
+[2023-08-07 23:09:24.017] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/jon/.config/Motrix/logs',
+  'session-path': '/home/jon/.config/Motrix/download.session',
+  'engine-path': '/usr/lib/motrix/engine',
+  'aria2-bin-path': '/usr/lib/motrix/engine/aria2c',
+  'aria2-conf-path': '/usr/lib/motrix/engine/aria2.conf'
+}
+[2023-08-07 23:09:35.847] [info]  [Motrix] Logger init
+[2023-08-07 23:09:35.852] [warn]  [Motrix] Logger init
+[2023-08-07 23:09:35.999] [info]  [Motrix] handleAppLaunchArgv: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 23:09:36.002] [info]  [Motrix] split argv args: [ '/usr/lib/electron22/electron', '/usr/lib/motrix/app.asar' ]
+[2023-08-07 23:09:36.003] [info]  [Motrix] split argv extra: {}
+[2023-08-07 23:09:36.004] [info]  [Motrix] openedAtLogin: false
+[2023-08-07 23:09:36.347] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/jon/.config/Motrix/logs',
+  'session-path': '/home/jon/.config/Motrix/download.session',
+  'engine-path': '/usr/lib/motrix/engine',
+  'aria2-bin-path': '/usr/lib/motrix/engine/aria2c',
+  'aria2-conf-path': '/usr/lib/motrix/engine/aria2.conf'
+}
