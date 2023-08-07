@@ -1,4 +1,4 @@
-# --// Backup Hyprland dotfiles //--
+# // Backup Hyprland dotfiles //
 
 ```shell
 
@@ -18,7 +18,6 @@
 **minimal Arch install (with grub)**
 - for default full hyprland installation with all configs
 ```shell
-pacman -Sy git
 git clone https://github.com/jonyxz/Dots
 cd ~/Dots/Scripts
 ./install.sh 
