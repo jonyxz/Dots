@@ -30,7 +30,7 @@
            "7": [],
            "8": [],
            "9": [],
-           "10": []
+           "0": []
        }
    },
 
@@ -81,7 +81,14 @@
         "format-icons": ["󰂎", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
     },
 
-
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "󰛐",
+            "deactivated": "󰛑"
+        },
+        "tooltip": true
+    },
 
     "clock": {
         "format": "{: %I:%M %p 󰃭 %a %d}",
