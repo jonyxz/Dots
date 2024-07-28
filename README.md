@@ -23,7 +23,7 @@ cd ~/Dots/Scripts
 ./install.sh 
 ```
 
-- for full hyprland installation + your favorite packages (ex. `custom_apps.lst`) 
+- for full hyprland installation + favorite packages (`custom_apps.lst`) 
 ```shell
 ./install.sh custom_apps.lst # full install custom_hypr.lst + custom_app.lst with configs
 ```
